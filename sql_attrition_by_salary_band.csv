@@ -1,0 +1,5 @@
+salary_band,total,attrited,attrition_pct,avg_income
+Low,395,113,28.61,2394.0
+Medium,519,66,12.72,4515.0
+High,275,33,12.0,7652.0
+Very High,281,25,8.9,14826.0
